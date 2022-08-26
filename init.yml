@@ -1,2 +1,2 @@
 config:
-  这是dev的init.yml
+  info: "dev branch ,springCloud-config/config-init.yml version=1.1"
