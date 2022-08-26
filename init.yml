@@ -1,1 +1,2 @@
-这是init.yml
+config:
+  info: "main branch , SpringCloud-config/config-init.yml version=1.0"
